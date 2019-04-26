@@ -1,0 +1,25 @@
+On load (background)
+- Get all categories
+
+Home (FlatList / Map)
+- Get points of interest (pagination)
+- Get points of interest based on search (pagination)
+
+Filter
+Type: Most Visited, Nearby, Top Rated
+Price: All, Paid, Free
+Max radius of search: x km
+Categories: list
+(pagination)
+
+PoI's Details
+- Get getails
+
+Tours
+- Get all Tours
+
+Tour's Details
+- Get tour
+
+QR Code
+- Get QRCode
